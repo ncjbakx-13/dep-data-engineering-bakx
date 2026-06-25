@@ -1,0 +1,30 @@
+﻿testing_lab_name,Latitude,Longitude,Type,Maximum Daily Testing Capacity,Referring Region,New
+Allegiant Regional Care Hospital (ARCH),10.282514,123.990117,,,,Yes
+Baguio General Hospital and Medical Center (BGHMC),16.401043,120.595693,Subnational Laboratory,300,"BGHMC serves the Ilocos, Cagayan Valley, and Cordillera Autonomous Regions.",No
+Bicol Regional Diagnostic and Reference Laboratory (BRDRL),13.147059,123.724704,,50,,No
+Cebu TB Reference Laboratory,10.314924,123.888521,Subnational Laboratory,,,No
+Chinese General Hospital (CGH),14.625644,120.988624,,180,,No
+De La Salle University - Cavite,14.322225,120.959809,,,,Yes
+Detoxicare Molecular Diagnostics Laboratory,14.591398,121.032858,,180,,No
+Eastern Visayas Regional Covid Testing Center (EVRCTC),11.251063,125.004581,,,,No
+Jose B. Lingad Memorial Regional Hospital (JBLMRH),15.03439,120.6845,,,,No
+Lung Center of the Philippines (LCP),14.647656,121.045841,Subnational Laboratory,300,LCP serves Central Luzon and NCR First and Second Districts.,No
+Lung Center of the Philippines GeneXpert Laboratory,14.647625,121.045841,,,,No
+Makati Medical Center (MMC),14.559056,121.014612,Private Laboratory,350,,No
+Marikina Molecular Diagnostics Laboratory,14.651056,121.110262,,,,No
+Philippine Genome Center (PGC),14.651619,121.071684,,,,No
+Philippine Red Cross (PRC),14.572239,121.046802,,8000,,No
+Philippine Red Cross Logistics & Multipurpose Center (PLMC),14.572605,121.04613,,,,No
+Research Institute for Tropical Medicine (RITM),14.409932,121.037233,National Reference Laboratory,1500,"RITM serves NCR Fourth District, CALABARZON (except Rizal), and Bicol Region.",No
+San Lazaro Hospital (SLH),14.613768,120.980916,Subnational Laboratory,200,"SLH serves NCR Third District, Rizal Province, and MIMAROPA.",No
+Singapore Diagnostics,14.557536,121.017317,,,,No
+Southern Philippines Medical Center (SPMC),7.098608,125.619904,Subnational Laboratory,150,"SPMC serves Zamboanga, Northern Mindanao, Davao, SOCCSKSARGEN, and BARMM.",No
+St. Lukes Medical Center - BGC (SLMC-BGC),14.554988,121.04823,Private Laboratory,250,,No
+St. Lukes Medical Center - Quezon City (SLMC-QC),14.622604,121.023245,Private Laboratory,180,,No
+The Medical City (TMC),14.5896,121.069279,Private Laboratory,80,"Valenzuela and Pasig have partnered with TMC for its localized, targeted mass testing efforts.",No
+UP National Institutes of Health (UP-NIH),14.576008,120.987139,,200,,No
+UP-PGH Molecular Laboratory,14.577479,120.98577,,,,No
+V. Luna Hospital,14.635698,121.05269,,50,,No
+Vicente Sotto Memorial Medical Center (VSMMC),10.30806,123.891592,Subnational Laboratory,500,"VSMMS serves Western Visayas, Central Visayas, Eastern Visayas, and the CARAGA Region.",No
+Western Visayas Medical Center (WVMC),10.718801,122.541617,,200,,No
+Zamboanga City Medical Center GeneXpert Laboratory (ZCMC),6.907293,122.080992,,,,No
