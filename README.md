@@ -30,4 +30,6 @@ Known limitations: It is a static snapshot (does not account for 2021-2023 popul
 ## Possible Final Dashboard
 The dashboard should help the audience quickly see a regional breakdown of historical bed availability vs. occupied beds, supporting decisions on where to deploy emergency funding or build new facilities for future preparedness.
 
-## Added raw data from kaggle and psa census data
+## Updates 
+1. Added raw data from kaggle and psa census data.
+2. Add API ingestion, raw data, and guide comments for future reference.
