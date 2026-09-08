@@ -1,0 +1,9 @@
+file_name,source_url,download_date,description
+DOH COVID Data Drop_ 20200414 - 20200515 (Daily & Weekly Reports).csv,https://www.kaggle.com/datasets/cvronao/covid19-philippine-dataset,2026-09-08,DOH COVID DataDrop — daily and weekly hospital/case reports (Apr–May 2020). Manually downloaded from Kaggle as a ZIP archive and extracted to data/raw/.
+Case_Information.csv,https://www.kaggle.com/datasets/cvronao/covid19-philippine-dataset,2026-09-08,Individual COVID-19 case records from the DOH DataDrop Kaggle dataset. Manually downloaded.
+Case_Information_20200515.csv,https://www.kaggle.com/datasets/cvronao/covid19-philippine-dataset,2026-09-08,Timestamped snapshot of Case_Information as of 2020-05-15. Manually downloaded from Kaggle.
+Testing_Aggregates_20200513.csv,https://www.kaggle.com/datasets/cvronao/covid19-philippine-dataset,2026-09-08,Aggregated COVID-19 testing data as of 2020-05-13. Manually downloaded from Kaggle.
+Testing_Lab_Locations.csv,https://www.kaggle.com/datasets/cvronao/covid19-philippine-dataset,2026-09-08,Reference list of DOH-accredited testing laboratory locations. Manually downloaded from Kaggle.
+Weekly_Report_20200425.csv,https://www.kaggle.com/datasets/cvronao/covid19-philippine-dataset,2026-09-08,Weekly DOH COVID report snapshot dated 2020-04-25. Manually downloaded from Kaggle.
+psa_population_2020.xlsx,https://psa.gov.ph/statistics/population-and-housing/node/164786,2026-09-08,PSA 2020 Census of Population and Housing — regional population totals. Manually downloaded from the Philippine Statistics Authority website.
+phl_covid_cases_api_raw.json,https://disease.sh/v3/covid-19/historical/PHL?lastdays=all,2026-09-08,Full historical COVID-19 case/death/recovery timeline for the Philippines. Fetched via the disease.sh public API (no auth required).
